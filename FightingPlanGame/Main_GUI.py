@@ -3,7 +3,7 @@
 # ---------------- READ ME ---------------------------------------------
 # This Script is Created Only For Practise And Educational Purpose Only
 # This is an Example Of Tkinter Canvas Graphics
-# This Script Is Created For https://hackworldwithssb.blogspot.in
+# This Script Is Created For http://bitforestinfo.blogspot.in
 # This Script is Written By
 __author__='''
 
@@ -15,7 +15,7 @@ __author__='''
     Admin
     S.S.B Group
     surajsinghbisht054@gmail.com
-    https://hackworldwithssb.blogspot.in
+    http://bitforestinfo.blogspot.in/
 
     Note: We Feel Proud To Be Indian
 ######################################################
